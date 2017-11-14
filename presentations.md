@@ -97,7 +97,7 @@ protocols and how are they related to Haskell's type classes? What are
 optional types and how are they related to 'null' values in other
 object oriented languages?
 
-Team: ???
+Team: Bart van der Lugt, Lars van den Haak, Roald Neutenboom, Anvar Arashov, Lukas Arts
 
 #### Scala
 
@@ -114,7 +114,7 @@ interoperate with existing C# code? What features from Haskell that
 you may have seen in Functional Programming does F# support? What
 features, such as type providers, are unique to F#?
 
-Team: Martijn Boom, Zino Onomiwo, Tim Zoet & Rik van Toor 
+Team: ??? 
 
 #### Scala and lightweight modular staging
 
