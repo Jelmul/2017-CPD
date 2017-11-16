@@ -59,7 +59,7 @@ fairly straightforward to set up.
 
 #### Time reversible DSL in Haskell
 
-Team: Joris T, Joris B, Ivo-Gabe, Cas, Orestis
+Team: Joris ten Tusscher, Joris Burgers, Ivo-Gabe de Wolff, Cas van der Rest, Orestis Melkonian.
 
 
 #### Idris
