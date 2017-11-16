@@ -155,6 +155,16 @@ What are the relative merits of all these approaches?
 
 Team: ???
 
+#### Lua
+
+Questions TBD
+
+Team:
+Laurens Post
+Nina Schoeber
+Norico Groeneveld
+Pantea Haghighatkhah
+
 #### Other (domain specific) languages
 
 Feel free to suggest other topics, provided these languages are
