@@ -57,12 +57,17 @@ fairly straightforward to set up.
 
 ## Topics
 
+#### Time reversible DSL in Haskell
+
+Team: Joris ten Tusscher, Joris Burgers, Ivo-Gabe de Wolff, Cas van der Rest, Orestis Melkonian.
+
+
 #### Idris
 
 What are *dependent types*? How can these be used to prove properties
 of your programs? 
 
-Team: Xander, Kevin, Stefan, Luca, Zan
+Team: Xander van der Goot, Kevin Namink, Stefan Koppier, Luca Scannapieco, Žan Palčič
 
 #### Rust
 
@@ -105,7 +110,7 @@ How does Scala combine functional and object-oriented programming?
 What are traits? What are case classes and pattern matching? How can
 you interface with Java?
 
-Team: ??? 
+Team: Niels Hendrikx, Pavlos Panteliadis, Chris Aronis
 
 #### F\#
 
@@ -155,6 +160,16 @@ specific languages different from embedded or stand-alone languages?
 What are the relative merits of all these approaches?
 
 Team: ???
+
+#### Lua
+
+Questions TBD
+
+Team:
+Laurens Post
+Nina Schoeber
+Norico Groeneveld
+Pantea Haghighatkhah
 
 #### Other (domain specific) languages
 
