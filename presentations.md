@@ -57,6 +57,11 @@ fairly straightforward to set up.
 
 ## Topics
 
+#### Time reversible DSL in Haskell
+
+Team: Joris ten Tusscher, Joris Burgers, Ivo-Gabe de Wolff, Cas van der Rest, Orestis Melkonian.
+
+
 #### Idris
 
 What are *dependent types*? How can these be used to prove properties
