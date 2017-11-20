@@ -57,10 +57,9 @@ fairly straightforward to set up.
 
 ## Topics
 
-#### Time reversible DSL in Haskell
+#### Janus -- reversible computation
 
 Team: Joris ten Tusscher, Joris Burgers, Ivo-Gabe de Wolff, Cas van der Rest, Orestis Melkonian.
-
 
 #### Idris
 
@@ -76,23 +75,6 @@ does Rust's borrowing mechanism address this?
 
 Team:
 Tobias van Driessel, Floris Schild, Mats Veldhuizen, Tom Freijsen, Ruben Schenkhuizen
-
-#### Elm
-
-What kind of language is Elm? What is the Elm architecture? How does
-it compare to existing languages for front-end development such as
-Javascript? What kind of code does Elm generate?
-
-Team: ???
-
-#### Purescript
-
-What kind of language is Purescript? How does it compare to existing
-languages for front-end development such as Javascript? What are
-algebraic effects and effect handlers? What are some of the key
-features of the type system?
-
-Team: ???
 
 #### Swift
 
@@ -130,6 +112,33 @@ implementing DSLs that we have seen?
 
 Team: Alexey Rodriguez Blanter, Ferenc Balla, Matthijs Steen, Ruben Meerkerk, Ratih Ngestrini
 
+#### Lua
+
+Questions TBD
+
+Team:
+Laurens Post
+Nina Schoeber
+Norico Groeneveld
+Pantea Haghighatkhah
+
+#### Elm
+
+What kind of language is Elm? What is the Elm architecture? How does
+it compare to existing languages for front-end development such as
+Javascript? What kind of code does Elm generate?
+
+Team: ???
+
+#### Purescript
+
+What kind of language is Purescript? How does it compare to existing
+languages for front-end development such as Javascript? What are
+algebraic effects and effect handlers? What are some of the key
+features of the type system?
+
+Team: ???
+
 #### OCaml
 
 What is OCaml's module system? How is it different from Haskell's?
@@ -161,18 +170,7 @@ What are the relative merits of all these approaches?
 
 Team: ???
 
-#### Lua
-
-Questions TBD
-
-Team:
-Laurens Post
-Nina Schoeber
-Norico Groeneveld
-Pantea Haghighatkhah
-
 #### Other (domain specific) languages
 
 Feel free to suggest other topics, provided these languages are
 suitably distinct from those listed above. 
-
