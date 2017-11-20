@@ -92,7 +92,7 @@ How does Scala combine functional and object-oriented programming?
 What are traits? What are case classes and pattern matching? How can
 you interface with Java?
 
-Team: Niels Hendrikx, Pavlos Panteliadis, Chris Aronis
+Team: Niels Hendrikx, Pavlos Panteliadis, Chris Aronis, Hristo Hristov
 
 #### F\#
 
@@ -116,11 +116,7 @@ Team: Alexey Rodriguez Blanter, Ferenc Balla, Matthijs Steen, Ruben Meerkerk, Ra
 
 Questions TBD
 
-Team:
-Laurens Post
-Nina Schoeber
-Norico Groeneveld
-Pantea Haghighatkhah
+Team: Laurens Post, Nina Schoeber, Norico Groeneveld, Pantea Haghighatkhah
 
 #### Elm
 
